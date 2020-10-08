@@ -3,6 +3,6 @@
 
   My first attempt will be the Groot figurine I tried last week to have a comparison, and then I will take photos of the gravestones I record this week if it is sucessful (or even if it isn't) to try.
   
-  I added my photos and clicked Start. It took some time, but the program was able to make its way to DepthMap before experiencing some issues. I will start by googling "Meshroom depthmap falure" to see what comes up. [Link](https://www.youtube.com/watch?v=loSMrBWxb1o) 
+  I added my photos and clicked Start. It took some time, but the program was able to make its way to DepthMap before experiencing some issues. I will start by googling "Meshroom depthmap falure" to see what comes up. [Video](https://www.youtube.com/watch?v=loSMrBWxb1o) 
   
-  I also came across this video [youtube](https://www.youtube.com/watch?v=bPdBQxZ9wEA)
+  I also came across this [youtube](https://www.youtube.com/watch?v=bPdBQxZ9wEA) video
