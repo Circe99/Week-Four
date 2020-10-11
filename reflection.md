@@ -1,5 +1,22 @@
-# African and Black Diaspora: An International Journal
-
-
-
 # Overall Reflection
+
+  "If monuments are too recent, there are concerns with the copyright of stonemasons and the personal information recorded on monuments. If the monuments are much older, there are concerns about the ethics of digitizing objects associated with the dead, when it would often be impossible to seek photo permissions and data sharing consent from next of kin." (week 2, Cook 185)
+
+  By far the most valuable thing that I learned from this first module was to consider the purpose of our project. Why is this good? Why is it bad? I come from a degree where we look at famous PUBLIC buildinigs or homes of public figures, so we have never had to consider the ethics of studing these space, since they are open to the public to access freely. This is something I definitely took for granted in the last 3 years of my education. I have always believed in the importance of preservation and accessability to all things so that we (I mean we as in everyone and anyone who wants to learn) can experience all parts of the world and better understand various traditions, cultures, and histories. However, up until recently I never considered the narrtive being told, or the damage that could be done by making certain things publicly accessible. 
+  
+  Last year, I took a course in Indigenous Studies and my Professor (a Metis woman with many fun stories to share) had told us early on in the course that there are stories she will NEVER share and will never tell others for two reasons. The first is because they are sacred stories that are from special times of the year and specific locations. The second is that she is not trained to tell these stories in full and therefore cannot share them. This honestly blew my mind. I has such a hard time understanding that there are some things that cannot and should not be said to just anyone because of its cultural significance.
+  
+  Something else she had told us about was the disrespect she felt to her people when she saw sacred artifacts on display in museums. One in particular, belonged to a man she had once met and the artifact (its name escapes me at the moment) was something that was passed down from generation to generation through a series of rituals. But the important part about this artifact is that it was not meant to be seen by anyone other than the family members (and even then it was only a select few). 
+  
+  So to kind of bring my example into this class, when I picked my site for the graveyard project, I was very conscious of where I was going and what dates I was looking at. I wanted to be in a space that was more public, the St James Cemetery is currently looking to get heritage protection so I believed that to be a good sign, and I wanted to record stones that were older so as not to accidently encounter someone in the process of morning a recently losed one out of respect. This project has really put my beliefs into question because I still strongly believe in the importance of preservation, but I also understand the value of privacy.
+ 
+ 
+  "data created through commercial, academic, and community avenues continues to be dominated by white historical narratives, often restricting the (perceived) usefulness of data and its relevance to contemporary research and understandings of the past" (week 2, Cook, 181)
+  
+  " The first monuments erected to commemorate black individuals in traditionally white contexts" (week 3, Cook 80)
+  
+  These two quotes reminded me of a reading I had done for a different class called *What History Is* by Keith Jenkins (from his text *Re-Thinking History* an excellent read if you're interested). Far to often we view the world from a Western perspective and that is the narrative that is used as well. This brings into question if we are collecting the correct data, or simply the data that is important to us, which means we can mold it in a way to show specific patterns. It also meant that the information can be misinterpreted by someone who is not trained in that field/part of that particular culture. This was something else I found interesting during the first few weeks of this module. Am I qualified to collect this data correctly? Well I know that I am not an expert in archaeology, I am not an expert in gravestones, and I am definitely not an expert at bring together lots of data to find patterns. So in short, no I don't think that I alone am qualified for something like this. That is why it is so important to collaborate with people from various backgrounds so you can catch as many patterns and collect data that is not only relevant to you. 
+  
+# Extra
+  
+  This is not super relevant to the rest of my writing this week, however, I thought it would be fun to note. It seems I am most drawn to quoting Katherine Cook. In fact, I have quoted her every week since we started this course, and I believe that to be because I find her texts to be the most thought provoking. She has put my beliefs and understanding of how things are into question on several occassions. I look forward to reading more of her work and seeing what I will start to question next!
