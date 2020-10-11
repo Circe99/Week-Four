@@ -21,6 +21,8 @@
   (I'll add more as I go)
   
   First issue is that I can't write in $ python, instead I have to do just python. Second issue, I get http://[::]:8000/ as the link and that does not work on my computer. I have read through Discord and asked for help on the issue to see if anyone else had the same problem but solved it. ![Image](Webmap_Error.png)
+  
+  Cocochantel was so kind in helping me and suggested I use http://localhost:8000/ while the command prompt was running. And it worked!
 
 # Spacial Archaeology
   
