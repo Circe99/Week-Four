@@ -11,7 +11,7 @@
   So to kind of bring my example into this class, when I picked my site for the graveyard project, I was very conscious of where I was going and what dates I was looking at. I wanted to be in a space that was more public, the St James Cemetery is currently looking to get heritage protection so I believed that to be a good sign, and I wanted to record stones that were older so as not to accidently encounter someone in the process of morning a recently losed one out of respect. This project has really put my beliefs into question because I still strongly believe in the importance of preservation, but I also understand the value of privacy.
  
  
-####  "data created through commercial, academic, and community avenues continues to be dominated by white historical narratives, often restricting the (perceived) usefulness of data and its relevance to contemporary research and understandings of the past" (week 2, Cook, 181)
+####  "data created through commercial, academic, and community avenues continues to be dominated by white historical narratives, often restricting the (perceived) usefulness of data and its relevance to contemporary research and understandings of the past" (week 2, Cook 181)
   
 ####  "The first monuments erected to commemorate black individuals in traditionally white contexts" (week 3, Cook 80)
   
