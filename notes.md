@@ -7,4 +7,14 @@
   
   I also came across this [youtube](https://www.youtube.com/watch?v=bPdBQxZ9wEA) video
   
-  After some research and help from Cocochantal, it seemed that my issue (add issue screenshot here) was the type of laptop I was using instead of the images themsleves. I was unable to figure out how to fix the issue other than getting the Nvidia. 
+  After some research and help from Cocochantal, it seemed that my issue (add issue screenshot here) was the type of laptop I was using instead of the images themsleves. I was unable to figure out how to fix the issue other than getting the Nvidia. For now I will set this aside, and work on it more in the following weeks. 
+  
+# Webmaps
+
+  Not overlly difficult, but I had to redownload Anaconda and Sublime to my laptop using these links [Anaconda](https://www.anaconda.com/products/individual#download-section) and [Sublime](https://www.sublimetext.com/)
+
+# Spacial Archaeology
+
+
+
+  
