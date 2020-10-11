@@ -11,7 +11,12 @@
   
 # Webmaps
 
-  Not overlly difficult, but I had to redownload Anaconda and Sublime to my laptop using these links [Anaconda](https://www.anaconda.com/products/individual#download-section) and [Sublime](https://www.sublimetext.com/)
+  Not overlly difficult, but I had to redownload Anaconda and Sublime to my laptop using these links for [Anaconda](https://www.anaconda.com/products/individual#download-section) and [Sublime](https://www.sublimetext.com/) (thought it would be good to have it saved here incase I need to access them again)
+  
+  I also had to google how to make a directory in my command prompt because I completely forgot: 
+  - cd = go to 
+  - mkdir = make new directory 
+  (I'll add more as I go)
 
 # Spacial Archaeology
 
