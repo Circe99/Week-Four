@@ -6,3 +6,5 @@
   I added my photos and clicked Start. It took some time, but the program was able to make its way to DepthMap before experiencing some issues. I will start by googling "Meshroom depthmap falure" to see what comes up. [Video](https://www.youtube.com/watch?v=loSMrBWxb1o) 
   
   I also came across this [youtube](https://www.youtube.com/watch?v=bPdBQxZ9wEA) video
+  
+  After some research and help from Cocochantal, it seemed that my issue (add issue screenshot here) was the type of laptop I was using instead of the images themsleves. I was unable to figure out how to fix the issue other than getting the Nvidia. 
