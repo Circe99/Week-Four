@@ -13,13 +13,13 @@
 
   Not overlly difficult, but I had to redownload Anaconda and Sublime to my laptop using these links for [Anaconda](https://www.anaconda.com/products/individual#download-section) and [Sublime](https://www.sublimetext.com/) (thought it would be good to have it saved here incase I need to access them again)
   
-  I also had to google how to make a directory in my command prompt because I completely forgot: 
+  I also had to google how to make a directory in my command prompt because I completely forgot (funny how fast you forget something when you stop using it): 
   - cd = go to 
   - mkdir = make new directory 
   (I'll add more as I go)
+  
+  First issue is that I can't write in $ python, instead I have to do just python. Second issue, I get http://[::]:8000/ as the link and that does not work on my computer. I have read through Discord and asked for help on the issue to see if anyone else had the same problem but solved it. 
 
 # Spacial Archaeology
-
-
-
+  
   
