@@ -13,7 +13,7 @@
  
 ####  "data created through commercial, academic, and community avenues continues to be dominated by white historical narratives, often restricting the (perceived) usefulness of data and its relevance to contemporary research and understandings of the past" (week 2, Cook, 181)
   
-####  " The first monuments erected to commemorate black individuals in traditionally white contexts" (week 3, Cook 80)
+####  "The first monuments erected to commemorate black individuals in traditionally white contexts" (week 3, Cook 80)
   
   These two quotes reminded me of a reading I had done for a different class called *What History Is* by Keith Jenkins (from his text *Re-Thinking History* an excellent read if you're interested). Far to often we view the world from a Western perspective and that is the narrative that is used as well. This brings into question if we are collecting the correct data, or simply the data that is important to us, which means we can mold it in a way to show specific patterns. It also meant that the information can be misinterpreted by someone who is not trained in that field/part of that particular culture. This was something else I found interesting during the first few weeks of this module. Am I qualified to collect this data correctly? Well I know that I am not an expert in archaeology, I am not an expert in gravestones, and I am definitely not an expert at bring together lots of data to find patterns. So in short, no I don't think that I alone am qualified for something like this. That is why it is so important to collaborate with people from various backgrounds so you can catch as many patterns and collect data that is not only relevant to you. 
   
