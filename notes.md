@@ -9,7 +9,7 @@
   
   After some research and help from Cocochantal, it seemed that my issue (add issue screenshot here) was the type of laptop I was using instead of the images themsleves. I was unable to figure out how to fix the issue other than getting the Nvidia. For now I will set this aside, and work on it more in the following weeks. 
   
-  Here are the results thus far ![Image](Screenshot (35).png)
+  Here are the results thus far ![Image](Meshroom.png)
   
 # Webmaps
 
@@ -20,7 +20,7 @@
   - mkdir = make new directory 
   (I'll add more as I go)
   
-  First issue is that I can't write in $ python, instead I have to do just python. Second issue, I get http://[::]:8000/ as the link and that does not work on my computer. I have read through Discord and asked for help on the issue to see if anyone else had the same problem but solved it. ![Image](Screenshot (37).png)
+  First issue is that I can't write in $ python, instead I have to do just python. Second issue, I get http://[::]:8000/ as the link and that does not work on my computer. I have read through Discord and asked for help on the issue to see if anyone else had the same problem but solved it. ![Image](Webmap-Error.png)
 
 # Spacial Archaeology
   
