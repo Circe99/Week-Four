@@ -29,6 +29,8 @@
   ![Image](Sewell_Webmap.png)
   
   I'm particularly proud of this one because I remember having a lot of trouble with it over the summer, so being able to get the map to work (thanks again to Cocochantal) and even adding new points was very exciting for me!
+  
+  Sidenote: for my geoJson file I had to make it just a Json file because my laptop was labelling it as geoJson.Json otherwise which just seemed to complicated. I went into the code you posted and corrected for that one issue which is on the main page of this repository.
 
 # Spacial Archaeology
   
