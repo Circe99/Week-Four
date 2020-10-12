@@ -23,6 +23,12 @@
   First issue is that I can't write in $ python, instead I have to do just python. Second issue, I get http://[::]:8000/ as the link and that does not work on my computer. I have read through Discord and asked for help on the issue to see if anyone else had the same problem but solved it. ![Image](Webmap_Error.png)
   
   Cocochantal was so kind in helping me and suggested I use http://localhost:8000/ while the command prompt was running. And it worked!
+  
+  Next I added the coordinates for the St. James Cemetery ( I may be off by a bit since I used Google maps to pin stuff) 
+  ![Image](St_James_Cemetery_Webmap.png)
+  ![Image](Sewell_Webmap.png)
+  
+  I'm particularly proud of this one because I remember having a lot of trouble with it over the summer, so being able to get the map to work (thanks again to Cocochantal) and even adding new points was very exciting for me!
 
 # Spacial Archaeology
   
