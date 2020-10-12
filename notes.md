@@ -24,7 +24,7 @@
   
   Cocochantal was so kind in helping me and suggested I use http://localhost:8000/ while the command prompt was running. And it worked!
   
-  Next I added the coordinates for the St. James Cemetery ( I may be off by a bit since I used Google maps to pin stuff) 
+  Next I added the coordinates for the St. James Cemetery (I may be off by a bit since I used Google maps to pin stuff) 
   ![Image](St_James_Cemetery_Webmap.png)
   ![Image](Sewell_Webmap.png)
   
